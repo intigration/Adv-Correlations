@@ -266,8 +266,3 @@ While this example is a small dataset with relatively simple relationships, the 
 
 * * *
 
-© Copyright 2021, Seeq Corporation.
-
-Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org).
-
-jQuery(function () { SphinxRtdTheme.Navigation.enable(true); });
