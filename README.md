@@ -1,9 +1,5 @@
 ## Adv. Correlation
 
-0.1.96
-
-  
-
 Contents:
 
 *   [Introduction](introduction.html)
